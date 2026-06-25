@@ -63,6 +63,40 @@ This repository contains projects completed during my Data Analytics & Machine L
 * AdaBoost Classifier
 * Spam Classification Analysis
 
+### Day 08 - Diabetes Prediction
+
+* Data Cleaning & Preprocessing
+* Label Encoding
+* Logistic Regression
+* KNN Classifier
+* Decision Tree Classifier
+* Random Forest Classifier
+* AdaBoost Classifier
+* Model Performance Comparison
+
+### Day 09 - Sentiment Analysis on Movie Reviews
+
+* Text Data Preprocessing
+* TF-IDF Vectorization
+* Logistic Regression
+* Naive Bayes Classifier
+* KNN Classifier
+* Decision Tree Classifier
+* Random Forest Classifier
+* XGBoost Classifier
+* Sentiment Classification Analysis
+
+### Day 10 - Movie Recommendation System
+
+* Data Cleaning
+* TF-IDF Vectorization
+* Cosine Similarity
+* Content-Based Recommendation System
+* Similar Review Recommendation
+* Recommendation Analysis
+
+---
+
 ## Tools & Technologies
 
 * Python
@@ -71,17 +105,25 @@ This repository contains projects completed during my Data Analytics & Machine L
 * Matplotlib
 * Seaborn
 * Scikit-learn
+* XGBoost
 * Jupyter Notebook
+* Git & GitHub
+
+---
 
 ## Machine Learning Techniques
 
 * Classification
 * Regression
 * Customer Segmentation
+* Recommendation Systems
+* Natural Language Processing (NLP)
 * Text Vectorization (TF-IDF)
 * Model Evaluation
-* Data Visualization
 * Feature Engineering
+* Data Visualization
+
+---
 
 ## Author
 
@@ -89,4 +131,12 @@ This repository contains projects completed during my Data Analytics & Machine L
 
 B.Tech CSE (Data Science)
 
-Data Analytics & Machine Learning Enthusiast
+Aspiring Data Analyst | Machine Learning Enthusiast | Python Developer
+
+---
+
+### Internship Organization
+
+**Glistara Software Solution**
+
+Guided By: **Ashok Soni Sir (Seed IT Solution)**
