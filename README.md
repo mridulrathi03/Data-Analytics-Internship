@@ -95,6 +95,26 @@ This repository contains projects completed during my Data Analytics & Machine L
 * Similar Review Recommendation
 * Recommendation Analysis
 
+### Day 11 - Digit Recognition
+
+* Data Preprocessing & Normalization
+* Feedforward Neural Network
+* TensorFlow & Keras
+* Handwritten Digit Classification
+* Confusion Matrix & Classification Report
+* Deep Learning Model Evaluation
+
+### Day 12 - Emoji Prediction
+
+* Text Data Preprocessing
+* TF-IDF Vectorization
+* Logistic Regression
+* Naive Bayes Classifier
+* Random Forest Classifier
+* KNN Classifier
+* Multi-Class Text Classification
+* Emoji Prediction Analysis
+
 ---
 
 ## Tools & Technologies
@@ -105,13 +125,15 @@ This repository contains projects completed during my Data Analytics & Machine L
 * Matplotlib
 * Seaborn
 * Scikit-learn
+* TensorFlow
+* Keras
 * XGBoost
 * Jupyter Notebook
 * Git & GitHub
 
 ---
 
-## Machine Learning Techniques
+## Machine Learning & Data Science Techniques
 
 * Classification
 * Regression
@@ -119,8 +141,10 @@ This repository contains projects completed during my Data Analytics & Machine L
 * Recommendation Systems
 * Natural Language Processing (NLP)
 * Text Vectorization (TF-IDF)
-* Model Evaluation
+* Deep Learning
+* Neural Networks
 * Feature Engineering
+* Model Evaluation
 * Data Visualization
 
 ---
@@ -135,7 +159,7 @@ Aspiring Data Analyst | Machine Learning Enthusiast | Python Developer
 
 ---
 
-### Internship Organization
+## Internship Organization
 
 **Glistara Software Solution**
 
